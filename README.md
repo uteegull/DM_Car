@@ -1,3 +1,7 @@
-## 
+## Autonomous Vehicle using Datamining Techniques
 
-![pic1](https://user-images.githubusercontent.com/44143282/57004033-4434f380-6b99-11e9-9b7b-095c7a9323f2.jpg)
+Applying datamining techniques, specifically CNN to train Autonomous vehicle, which recognises several traffic signs.
+
+##Assembling the Pi-Car:
+
+![image](https://drive.google.com/uc?export=view&id=<1hltvAJfKQzFHEhkanPAmXIp7T4TKahG9>)
