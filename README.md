@@ -76,9 +76,9 @@ learning rate: We used Adam optimizer with learning rate le-3. The learning rate
 
 2. Reliable power supply
 
-   3.Lane Detection for the car can be improved by adjusting our camera angel. The camera should be placed high, so that it can capture the lane easily. By adjusting the camera angel, according to the car, we have found improvement in lane detection.
+3.  Lane Detection for the car can be improved by adjusting our camera angel. The camera should be placed high, so that it can capture the lane easily. By adjusting the camera angel, according to the car, we have found improvement in lane detection.
 
-   4.In order to improve the control of front and back wheels the motor should be flexible. A uniform motor with lower acceleration and deceleration rates gives high precision over extended duration.75mm to 250mm range would be ideal for Servo motor with frames.
+4.  In order to improve the control of front and back wheels the motor should be flexible. A uniform motor with lower acceleration and deceleration rates gives high precision over extended duration.75mm to 250mm range would be ideal for Servo motor with frames.
 
 
 
