@@ -18,5 +18,57 @@ In this project, we are going to use Raspberry Pi 3 model B+ to control servos u
 
 4.Camera module
 
-
 5.PID Control
+
+##Dataset Characteristics
+
+Image size : 28X28
+
+Approx no.of images for each sign : 200
+
+##CNN Characteristics
+
+Architecture: LeNet Architecture
+
+Optimizer: Adam Optimizer
+
+The CNN has 1 input and 1 output layer, 2 convolutional layers.
+
+In the first set of convolutional layers, we have 20 filters and the size is 5*5. Each convolution layer has an activation function, ReLU which is followed by the pooling layers.
+
+Pool size is 2,2 and the stride is 2,2.
+
+The second set of convolutional layer is followed by another activation function, ReLU and a softmax function. It has 50 filters each of size 5*5.
+
+The model can be optimized by evaluating it against test data and determining the Loss and Accuracy.
+
+Upon evaluating the model and finding out the Loss and Accuracy, we have made the following observations:
+
+loss: 0.0426
+
+acc: 0.9874
+
+val_loss: 0.0197
+
+val_acc: 0.9941
+
+##Training
+
+# of epoch = 30
+
+parameter values = Convolutional layer 1- 25 filters of size 5x5, Convolutional layer 2 - 50 filters of 5x5
+
+drop out = 0.2
+
+learning rate: We used Adam optimizer with learning rate le-3. The learning rate decay over each update is le-3/25.
+
+
+##Entire Video Link
+
+
+
+
+
+
+
+
