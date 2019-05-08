@@ -11,7 +11,12 @@ In this project, we are going to use Raspberry Pi 3 model B+ to control servos u
 #The car has the following functionalities:
 
 1.Straight lane detection
+
 2.Controlling back wheel servos
+
 3.Controlling front wheel servos
+
 4.Camera module
+
+
 5.PID Control
