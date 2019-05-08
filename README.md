@@ -2,13 +2,14 @@
 
 Applying datamining techniques, specifically CNN to train Autonomous vehicle, which recognises several traffic signs.
 
-##Assembling the Pi-Car:
+## Assembling the Pi-Car:
+
 The following is the link for the pictures, which shows the assembly and connection establishemnest of the smart car.
 https://drive.google.com/open?id=1QxsLuxqOaNv_Lo_0xhgbLtI6Ry0ytPXu
 
 In this project, we are going to use Raspberry Pi 3 model B+ to control servos using Python.
 
-#The car has the following functionalities:
+# The car has the following functionalities:
 
 1.Straight lane detection
 
@@ -20,13 +21,13 @@ In this project, we are going to use Raspberry Pi 3 model B+ to control servos u
 
 5.PID Control
 
-##Dataset Characteristics
+## Dataset Characteristics
 
 Image size : 28X28
 
 Approx no.of images for each sign : 200
 
-##CNN Characteristics
+## CNN Characteristics
 
 Architecture: LeNet Architecture
 
@@ -52,7 +53,7 @@ val_loss: 0.0197
 
 val_acc: 0.9941
 
-##Training
+## Training
 
 # of epoch = 30
 
@@ -63,7 +64,21 @@ drop out = 0.2
 learning rate: We used Adam optimizer with learning rate le-3. The learning rate decay over each update is le-3/25.
 
 
-##Entire Video Link
+## Entire Video Link
+
+
+
+
+
+## Areas of scope for Improvement
+
+1. Training the car, by using different types of images with the similar meaning
+
+2. Reliable power supply
+
+3.
+
+
 
 
 
