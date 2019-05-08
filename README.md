@@ -55,7 +55,7 @@ val_acc: 0.9941
 
 ## Training
 
-# of epoch = 30
+of epoch = 30
 
 parameter values = Convolutional layer 1- 25 filters of size 5x5, Convolutional layer 2 - 50 filters of 5x5
 
