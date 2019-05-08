@@ -64,7 +64,19 @@ drop out = 0.2
 learning rate: We used Adam optimizer with learning rate le-3. The learning rate decay over each update is le-3/25.
 
 
-## Entire Video Link
+## Entire source link:
+
+https://drive.google.com/file/d/0BwqSlTPNCrnLc3RhcnRlcl9maWxlX2Rhc2hlclYw/view?usp=sharing
+
+
+## Video of the Car
+
+https://youtu.be/-ZJYQvkl0DY
+
+
+## Screen Recording
+
+https://drive.google.com/file/d/1lapwvwA-6MAz6a6N-W82V3jTh1RQqgxl/view?usp=sharing
 
 
 
