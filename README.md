@@ -2,12 +2,29 @@
 
 Applying datamining techniques, specifically CNN to train Autonomous vehicle, which recognises several traffic signs.
 
+In the intial phase, we assembled the Smart Video Car for RaspberryPi. We attach fix therear wheels,Upper plate, Battery Holder, Motor Driver, PWM Driver,Robot HATS, Raspberry Pi. Then we build the Circuits.Ater Configuring the Servos(Details mentioned in the Second part), we fix the front wheels and Camera.
+
 ## Assembling the Pi-Car:
 
 The following is the link for the pictures, which shows the assembly and connection establishemnest of the smart car.
 https://drive.google.com/open?id=1QxsLuxqOaNv_Lo_0xhgbLtI6Ry0ytPXu
 
 In this project, we are going to use Raspberry Pi 3 model B+ to control servos using Python.
+
+Improving the Quality:
+
+In order to improve the quality of the smart car, we can
+
+	Use a reliable power supply
+
+	Install light weight Operating System
+
+	Using High performance SD card
+
+	Running the OS from USB stick.
+
+
+##
 
 # The car has the following functionalities:
 
